@@ -1,15 +1,20 @@
-<h2 align="left">Hi 👋! My name is Kledi Salla and I'm a 2nd year Bioinformatics MSc Student, from Greece</h2>
+<h1 align="left">Hey there 👋</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<p align="left">My name is Kledi and I'm a 2nd year Bioinformatics MSc student, from Greece</p>
 
 ###
 
-<img align="right" height="150"   />
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning HTML and CSS <br>🎯 Goals: Data science, software development</p>
+
+###
+
+<h2 align="left">I code with python</h2>
 
 ###
 
@@ -24,6 +29,4 @@
 </div>
 
 ###
-
-<br clear="both">
 
